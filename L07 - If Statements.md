@@ -18,7 +18,7 @@ The code above only executes the message: ```No school today!```, if the day is 
 
 If the day variable was set to something other than Saturday or Sunday, this program would have no output.
 
-## How to Format an If statement
+## How to Format an If Statement
 
 ```java
 if (__BOOLEAN_CONDITION__) {
