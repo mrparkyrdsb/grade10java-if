@@ -51,7 +51,7 @@ if (__CONDITIONA__) {
     // code A 
 }
 ```
-> you cannot have a random ```else``` statement without it being attached an if statement prior to it
+> you cannot have a random ```else``` statement without it being attached to an if statement prior to it
 
 ## [Curriculum Document Reference](https://www.edu.gov.on.ca/eng/curriculum/secondary/computer10to12_2008.pdf)
 - __B2.4:__ write a program that includes a decision
