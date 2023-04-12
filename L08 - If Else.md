@@ -10,7 +10,7 @@ class Main {
         System.out.println('Enter the day: ')
         String day = in.nextLine();
         
-        if (day == "Saturday" || day == "Sunday") {
+        if (day.equals("Saturday") || day.equals("Sunday")) {
             System.out.println("No school today!");
         }
         else {

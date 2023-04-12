@@ -5,7 +5,7 @@ class Main {
     public static void main(String[] args) {
         String day = "Saturday";
 
-        if (day == "Saturday" || day == "Sunday") {
+        if (day.equals("Saturday") || day.equals("Sunday")) {
             System.out.println("No school today!");
         }
     }
