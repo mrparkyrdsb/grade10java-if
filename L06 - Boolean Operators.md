@@ -119,5 +119,3 @@ class Main {
 
 ## [Curriculum Document Reference](https://www.edu.gov.on.ca/eng/curriculum/secondary/computer10to12_2008.pdf)
 - __B1.6:__ describe the function of Boolean operators, comparison operators, and arithmetic operators
-- __B2.4:__ write a program that includes a decision
-structure for two or more choices
