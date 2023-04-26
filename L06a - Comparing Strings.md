@@ -18,8 +18,6 @@ String myStr2 = "Hello";
 System.out.println(myStr1.compareTo(myStr2)); // Returns 0 because they are equal
 ```
 
-## Why do we use these methods instead of comparison operators?
-
 ## SOURCES
 - w3schools -- [w3schools.com/java/ref_string_equals.asp](w3schools.com/java/ref_string_equals.asp)
 - w3schools -- [https://www.w3schools.com/java/ref_string_compareto.asp](https://www.w3schools.com/java/ref_string_compareto.asp)
